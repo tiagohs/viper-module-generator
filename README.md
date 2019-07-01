@@ -12,7 +12,7 @@ The most simple VIPER module generator for Swift projects, usigin xcode.
 ### Automatically
 
 - [Download VIPER Template](https://github.com/tiagohs/viper-module-generator/archive/master.zip) or clone the project
-- Run the `Makefile` run in the terminal `make`.
+- Run the `Makefile` run in the terminal `sudo make install_templates`.
 
 ## Usage
 
